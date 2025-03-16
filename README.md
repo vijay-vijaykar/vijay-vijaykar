@@ -1,6 +1,7 @@
 💻 **Data Analyst | Aspiring Data Scientist**
 
 👋 Hi there! I'm **Vijaykumar S Vijaykar**
+
 🔍 About Me
 
 👷 Former Civil Site Engineer with 3 years of experience, now transitioning into Data Analytics.
